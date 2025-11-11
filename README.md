@@ -1,10 +1,10 @@
 ## Hi ✨
-I'm **qTee**, a junior dev 👾 with a keen interest in web3 development 🚀
+I'm **Iz CM**, a Jr. fullstack developer with a keen interest in web3 🚀
 
-### 📚 qTee's current tech track:
+### 📚 Mains:
 - 🧾 **Solidity projects** focusing on the foundational design patterns and common attacks.  
 - 🔢 Diving into discrete math for **cryptography**. 
-- 🧡 Learning **Rust** for my ZK journey.
+- 🧡 Learning **Rust** for ZK.
 
-### ⚡ Fun fact:
-**Liminal spaces** make me feel fuzzy 💕
+### ⚡ About me:
+Curious mind. Steady hands.
