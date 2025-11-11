@@ -1,8 +1,8 @@
-## Hi ✨
-I'm **Iz CM**, a Jr. fullstack developer with a keen interest in web3 🚀
+## Hi 
+I'm **Iz CM**, a Jr. fullstack developer with a keen interest in web3 🔗
 
-### 📚 Mains:
-- 🧾 **Solidity projects** focusing on the foundational design patterns and common attacks.  
+### {} Mains:
+- 🧾 **Solidity + Yul** — studying the EVM internals and writing clean, secure contracts
 - 🔢 Diving into discrete math for **cryptography**. 
 - 🧡 Learning **Rust** for ZK.
 
